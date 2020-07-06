@@ -1,0 +1,15 @@
+B:\Sources\ChartExample\bin\Debug\ChartExample.exe.config
+B:\Sources\ChartExample\bin\Debug\ChartExample.exe
+B:\Sources\ChartExample\bin\Debug\ChartExample.pdb
+B:\Sources\ChartExample\bin\Debug\EntityFramework.dll
+B:\Sources\ChartExample\bin\Debug\EntityFramework.SqlServer.dll
+B:\Sources\ChartExample\bin\Debug\EntityFramework.xml
+B:\Sources\ChartExample\bin\Debug\EntityFramework.SqlServer.xml
+B:\Sources\ChartExample\obj\Debug\ChartExample.csprojAssemblyReference.cache
+B:\Sources\ChartExample\obj\Debug\ChartExample.Form1.resources
+B:\Sources\ChartExample\obj\Debug\ChartExample.Properties.Resources.resources
+B:\Sources\ChartExample\obj\Debug\ChartExample.csproj.GenerateResource.cache
+B:\Sources\ChartExample\obj\Debug\ChartExample.csproj.CoreCompileInputs.cache
+B:\Sources\ChartExample\obj\Debug\ChartExample.csproj.CopyComplete
+B:\Sources\ChartExample\obj\Debug\ChartExample.exe
+B:\Sources\ChartExample\obj\Debug\ChartExample.pdb

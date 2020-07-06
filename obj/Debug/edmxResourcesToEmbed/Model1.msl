@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbchartModelStoreContainer" CdmEntityContainer="dbchartEntities">
+    <EntitySetMapping Name="Revenues">
+      <EntityTypeMapping TypeName="dbchartModel.Revenue">
+        <MappingFragment StoreEntitySet="Revenues">
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
